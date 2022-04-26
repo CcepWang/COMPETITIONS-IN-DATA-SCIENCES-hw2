@@ -28,3 +28,5 @@ colab:https://colab.research.google.com/drive/1y1c0AV8kn-3yWlMI78nveQrvdamk4-yr?
 - 以此判斷當天的策略應該是買進或是賣出，並且遵守unit介於-1到1之間
 ### result
 - 最終的profit為2.25
+### conclusion
+- 因為這個策略的結果並不算太好，所以曾經嘗試了增加特徵來做訓練，但是最終由於技術問題以失敗告終。
